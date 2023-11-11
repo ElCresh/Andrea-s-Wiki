@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
+<categories>
+    <category id="arc32" name="ArchLinux32" order="1"/>
+</categories>

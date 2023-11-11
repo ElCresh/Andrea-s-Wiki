@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="aw"
+                 name="Andrea's Wiki"
+                 start-page="ArchLinux.md">
+
+    <toc-element topic="ArchLinux.md">
+        <toc-element topic="ArchLinux32-Install.md"/>
+    </toc-element>
+</instance-profile>

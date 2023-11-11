@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4b62c135">
+        <description>Created after removal of "ArchLinux32 - Install" from Help Instance</description>
+        <accepts>ArchLinux32-Install.html</accepts>
+    </rule>
+    <rule id="2ca6316c">
+        <description>Created after removal of "ArchLinux" from Andrea's Wiki</description>
+        <accepts>ArchLinux.html</accepts>
+    </rule>
+    <rule id="3b92149a">
+        <description>Created after removal of "ArchLinuxa" from Andrea's Wiki</description>
+        <accepts>ArchLinuxa.html</accepts>
+    </rule>
+</rules>
