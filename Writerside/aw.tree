@@ -9,4 +9,7 @@
     <toc-element topic="ArchLinux.md">
         <toc-element topic="ArchLinux32-Install.md"/>
     </toc-element>
+    <toc-element topic="Debian.md">
+        <toc-element topic="Install-multiple-version-of-PHP.md"/>
+    </toc-element>
 </instance-profile>
