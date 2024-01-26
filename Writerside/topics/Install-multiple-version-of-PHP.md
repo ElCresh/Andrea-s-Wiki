@@ -22,6 +22,7 @@ Then as last step we can add the repository as follows:
 sh -c 'echo "deb [signed-by=/usr/share/keyrings/deb.sury.org-php.gpg] https://packages.sury.org/php/ $(lsb_release -sc) main" > /etc/apt/sources.list.d/php.list'
 ```
 
+## Installing packages
 Now that we have added _ondrej/php_ repos we can finally refresh packages list with:
 ```shell
 apt-get update 
